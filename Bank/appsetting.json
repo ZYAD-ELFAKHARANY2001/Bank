@@ -1,0 +1,3 @@
+{
+  "constr": "Server = DESKTOP-3LOCF94\\SQLEXPRESS ; Database = Wallet ; Integrated Security = SSPI ; TrustServerCertificate = True"
+}
